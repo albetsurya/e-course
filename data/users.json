@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1718320535472",
+    "username": "Albet02",
+    "email": "albet02@mail.com",
+    "password": "12345678"
+  },
+  {},
+  {
+    "name": "Albet",
+    "phone": "08123456789",
+    "email": "albet123@gmail.com",
+    "address": "surabaya",
+    "password": "12345678"
+  },
+  {
+    "id": "1718323036874",
+    "username": "Albet01",
+    "email": "albet01@mail.com",
+    "password": "$2b$10$c6wpF3SJWkqLiZc3uKZp3uPBvNNJSNsc2JQkD8lioot2tfwPkZwT2"
+  },
+  {
+    "id": "1718323037794",
+    "username": "Albet01",
+    "email": "albet01@mail.com",
+    "password": "$2b$10$/zdDCoAFCMdLGqTsowj1Tu7WLKYUORjfrh.Xgab3GqDrRCz2c3aj6"
+  },
+  {
+    "id": "1718339228234",
+    "email": "albet03@mail.com",
+    "password": "$2b$10$.Cgd0EuUWpja8cDojRnMK.LPHsSlOgJD7w0/l3iE4TwI906Ddra4q"
+  },
+  {
+    "id": "1718339394957",
+    "username": "Albet04",
+    "email": "albet04@gmail.com",
+    "password": "$2b$10$XLgRQAewk8henFQXnP9/feTrjvTm6SjP2lkWTHe8FGIvcFeVvfrvK"
+  },
+  {
+    "id": "1718339528074",
+    "username": "Albet05",
+    "email": "albet@gmail.com",
+    "password": "$2b$10$E5WvYcAtWdWRgX43MSjKGOmR8K5kHksothbCOJgYzYa.BDftkUC7a"
+  },
+  {
+    "id": "1718339577610",
+    "username": "Albet05",
+    "email": "albet@gmail.com",
+    "password": "$2b$10$ukXwcIX4XVKeMZef5qNbjurUrXbvWc.6aF0XQ9bfumiW76QHR3qW6"
+  }
+]
